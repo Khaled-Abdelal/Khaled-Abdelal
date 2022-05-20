@@ -1,9 +1,8 @@
 
 <h1 align="center"> Hi there, I'm Khaled Abdelal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Khaled-Abdelal.Khaled-Abdelal)
-
 ### Glad to see you here! &nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=Khaled-Abdelal.Khaled-Abdelal)
 
 I am a software engineer, I build large scalable systems, I pay attention to all the little details and know when to ignore them!
 
