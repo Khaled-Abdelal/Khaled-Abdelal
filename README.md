@@ -4,7 +4,7 @@
 ### Glad to see you here! &nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=Khaled-Abdelal.Khaled-Abdelal)
 
-I am a software engineer, I build large scalable systems, I pay attention to all the little details and know when to ignore them!
+I am a software engineer, I build large scalable systems, I pay attention to all the little details and know when and which to ignore!
 
 ## 🔧 Technologies & Tools
 
