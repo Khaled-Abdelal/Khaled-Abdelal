@@ -54,7 +54,7 @@ I am a software engineer, I build large scalable systems, I pay attention to all
 
 <p align="center">
 <!-- <img  src="https://github-readme-stats-sand-three-85.vercel.app/api/top-langs?username=Khaled-Abdelal&show_icons=true&locale=en&layout=compact&count_private=true" alt="Khaled-Abdelal" /> -->
-<img  src="https://github-readme-stats-sand-three-85.vercel.app/api?username=Khaled-Abdelal&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="Khaled-Abdelal" />
+<img  src="https://github-readme-stats-sand-three-85.vercel.app/api?username=Khaled-Abdelal&include_all_commits=true&show_icons=true&locale=en&count_private=true&hide=issues,prs,contribs" alt="Khaled-Abdelal" />
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Abdelal&count_private=true" alt="Khaled-Abdelal" />
